@@ -39,7 +39,7 @@ img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 70%;
+    width: 30%;
 }
 
 .headings{
@@ -127,6 +127,7 @@ p {
 
 .container h1{
     background-color: deepskyblue;
+    font-size: 50px;
 }
 
 h1 {
