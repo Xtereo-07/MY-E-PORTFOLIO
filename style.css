@@ -132,7 +132,10 @@ p {
 h1 {
     text-align: center;
     flex-direction: column;
-    margin: 5px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 8px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(23, 38, 67);
     width: 100%;
